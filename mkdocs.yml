@@ -1,8 +1,8 @@
-﻿site_name: 黑莓怀念分享网
-site_description: 怀念黑莓
-site_url: https://blackberry.zhihu.blog
-repo_url: https://github.com/shutouyabo/blackberry.zhihu.blog
-remote_name: shutouyabo/blackberry.zhihu.blog
+﻿site_name: 杂志大全
+site_description: 博览群书
+site_url: https://mkdocs.zhihu.blog/
+repo_url: https://github.com/shutouyabo/MkDocs
+#remote_name: linyuxuanlin/Wiki_MkDocs
 edit_uri: edit/main/docs/ # 编辑按钮的url
 INHERIT: mkdocs.nav.yml
 
@@ -15,7 +15,7 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)" # 检查用户系统配置是否为亮色
       scheme: default # 亮色模式
-      primary: white # 基本颜色
+      primary: green # 基本颜色
       accent: blue # 按钮等互动块的颜色
       toggle:
         icon: material/eye
@@ -59,9 +59,7 @@ plugins:
           default: true
           name: 简体中文
           build: true
-            
-            
-          
+
 
   - search
   - minify:
@@ -114,7 +112,7 @@ extra:
       link: https://github.com/linyuxuanlin/File-host
       icon: fontawesome/regular/file-lines
 
-copyright: Copyright &copy; since 2026 by work wiki
+copyright: Copyright &copy; since 2000-2026 by 杂志大全
 
 markdown_extensions:
   - pymdownx.arithmatex:
