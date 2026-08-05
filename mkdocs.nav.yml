@@ -1,7 +1,6 @@
 nav:
   - Home: index.md
   - 黑莓故事:
-      - zazhi/index.md  
       - 黑莓由来:
           - zazhi/yilin/index.md
           - 意林2025:
