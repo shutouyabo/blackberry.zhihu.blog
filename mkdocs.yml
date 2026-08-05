@@ -1,8 +1,8 @@
-﻿site_name: 杂志大全
-site_description: 博览群书
-site_url: https://mkdocs.zhihu.blog/
-repo_url: https://github.com/shutouyabo/MkDocs
-#remote_name: linyuxuanlin/Wiki_MkDocs
+﻿site_name: 黑莓怀念分享网
+site_description: 怀念黑莓手机
+site_url: https://blackberry.zhihu.blog/
+repo_url: https://github.com/shutouyabo/blackberry.zhihu.blog
+#remote_name: shutouyabo/blackberry.zhihu.blog
 edit_uri: edit/main/docs/ # 编辑按钮的url
 INHERIT: mkdocs.nav.yml
 
