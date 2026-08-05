@@ -1,0 +1,82 @@
+nav:
+  - Home: index.md
+  - 在线杂志:
+      - zazhi/index.md  
+      - 意林:
+          - zazhi/yilin/index.md
+          - 意林2025:
+              - zazhi/yilin/2025/202524.md
+              - zazhi/yilin/2025/202523.md
+              - zazhi/yilin/2025/202522.md
+              - zazhi/yilin/2025/202521.md
+              - zazhi/yilin/2025/202520.md
+              - zazhi/yilin/2025/202519.md
+              - zazhi/yilin/2025/202518.md
+              - zazhi/yilin/2025/202517.md
+              - zazhi/yilin/2025/202516.md
+              - zazhi/yilin/2025/202515.md
+              - zazhi/yilin/2025/202514.md
+              - zazhi/yilin/2025/202513.md
+              - zazhi/yilin/2025/202512.md
+              - zazhi/yilin/2025/202511.md
+              - zazhi/yilin/2025/202510.md
+              - zazhi/yilin/2025/202509.md
+              - zazhi/yilin/2025/202508.md
+              - zazhi/yilin/2025/202507.md
+              - zazhi/yilin/2025/202506.md
+              - zazhi/yilin/2025/202505.md
+              - zazhi/yilin/2025/202504.md
+              - zazhi/yilin/2025/202503.md
+              - zazhi/yilin/2025/202502.md
+              - zazhi/yilin/2025/202501.md
+          - 意林2024:
+              - zazhi/yilin/2024/202406.md
+              - zazhi/yilin/2024/202405.md
+              - zazhi/yilin/2024/202404.md
+              - zazhi/yilin/2024/202403.md
+              - zazhi/yilin/2024/202402.md
+              - zazhi/yilin/2024/202401.md
+          - 意林2023:
+              - zazhi/yilin/2023/202306.md
+              - zazhi/yilin/2023/202305.md   
+              - zazhi/yilin/2023/202304.md
+              - zazhi/yilin/2023/202303.md
+              - zazhi/yilin/2023/202302.md
+              - zazhi/yilin/2023/202301.md
+      - 读者:
+          - zazhi/duzhe/index.md
+          - 读者2026:
+              - zazhi/duzhe/2026/202614.md
+              - zazhi/duzhe/2026/202613.md        
+          - 读者2025:
+              - zazhi/duzhe/2025/202524.md
+              - zazhi/duzhe/2025/202523.md                     
+         
+
+
+  - 2:
+      - 嵌入式开发:
+          - Arduino & 杂项:
+              - 麦轮小车.md
+
+
+
+      #- 杂七杂八:
+      #    - 机器人队行政:
+      #        - 参观实验室-经验模板.md
+      #    - PM:
+      #        - 产品经理的日常.md
+
+
+
+#############################################################
+#############################################################
+#############################################################
+
+
+###
+
+
+#  unlist：
+# - unlist/团队知识库搭建记录-DokuWiki.md
+
