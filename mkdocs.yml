@@ -1,8 +1,8 @@
-﻿site_name: 在线杂志
-site_description: 学习。
-site_url: https://zazhi.zhihu.blog
-repo_url: https://github.com/shutouyabo/zazhi.zhihu.blog
-remote_name: shutouyabo/zazhi.zhihu.blog
+﻿site_name: 黑莓怀念分享网
+site_description: 怀念黑莓
+site_url: https://blackberry.zhihu.blog
+repo_url: https://github.com/shutouyabo/blackberry.zhihu.blog
+remote_name: shutouyabo/blackberry.zhihu.blog
 edit_uri: edit/main/docs/ # 编辑按钮的url
 INHERIT: mkdocs.nav.yml
 
